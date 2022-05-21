@@ -31,4 +31,11 @@ senhaElemento.onclick = ()=>{
   navigator.clipboard.writeText(senhaElemento.textContent)
 
   senhaElemento.classList.add("copiada")
+}  
+
+cont urlsenha = ()=>{
+  
+  window.location = "urlsenha.html"
+
+
 }
