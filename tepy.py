@@ -1,2 +1,0 @@
-xxx.py
-<teste>
