@@ -24,8 +24,9 @@ const gerarSenha = ()=>{
 
 
 botaoGerarSenha.onclick = ()=>{
-  gerarSenha() 
-  //urlsenha()
+  gerarSenha()
+
+  window.location = "urlsenha.html"
 }
 
 senhaElemento.onclick = ()=>{
