@@ -3,3 +3,6 @@ var URL = window.location.href;
 
 console.log(URL); 
 
+
+senhaElemento.textContent = senha
+senha = " "
