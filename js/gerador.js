@@ -30,7 +30,7 @@ botaoGerarSenha.onclick = ()=>{
 
 }
 botaoValidade.onclick = ()=>{
-  window.location = "urlsenha.html"
+  window.location = "../urlsenha.html"
 
 }
 
